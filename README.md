@@ -30,7 +30,7 @@ A total of **50 negative test cases** are tested, covering all 24 Singlish input
 **Step 1 — Clone or download this repository**
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/3sha-la/IT23282490_ITPM.git
 ```
 Or download and extract the ZIP file.
 
